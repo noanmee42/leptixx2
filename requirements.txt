@@ -1,0 +1,19 @@
+# API
+fastapi
+uvicorn[standard]
+
+# Парсинг
+httpx
+trafilatura
+
+# Работа с текстом
+spacy
+
+# Векторы
+faiss-cpu
+
+# ML модели
+# torch==2.2.1
+#llama-cpp-python
+sentence-transformers
+transformers
